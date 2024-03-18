@@ -6,7 +6,6 @@ public class ABC {
 
 		  System.out.println("Hello world!");
 		  System.out.println(" Selenium java!");
-		  System.out.println(" Hello git!");
 
 	}
 
