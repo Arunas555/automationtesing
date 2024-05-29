@@ -1,0 +1,43 @@
+1.To verify that all menu categories display on home screen.
+2.To verify that menu images display with all details.
+3.To verify that if menu image not display by default image display.
+4.To verify that click on anywhere on cart navigate to product details screen.
+5.To verify that click on menu name display product details screen.
+6.To verify that click on favourite icon (heart) its shown in favourite.
+7.To verify that search textbox allowed minimum three characters
+8.To verify that bottom navigation is visible at search screen.
+9.To verify that click on back button of serach screen.
+10.To verify that searching history is shown.
+11.To verify that on my order screen click on home icon.
+12.To verify that completed order shown on my order completed screen,
+13.To verify that bottom navigation is visible to my order screen.
+14.To verify that my cart screen has bottom navigation bar visible.
+15.To verify that click on account setting display setting screen.
+16.To verify that in edit profile personal information is updated.
+17.To verify that when click on Qand Ans.
+18.To verify that on menu screen bottom navigation is visible.
+19.To verify that menu count display in perticular category.
+20.To verify that display chilly spicy level icon on menu card.
+21.To verify that all details display in product details.
+22.To verify that all menus spicy index shown.
+23.To verify that available menu shown category. 
+24.To verify that after verify OTP it goes to home screen.
+25.To verify that signIn button is disabled when email not entered
+26.To verify that signin button is active when email entered.
+27.To verify that create account hyperlink is working.
+28.To verify that bottom of signIn screen company name display .
+29.To verify that after enter OTP line is .
+30.To verify that in OTP texbox Enter OTP as placeholder write properly.
+31.To verify that Verify and proceed button is disabled.
+32.To verify that sign in hyperlink is working
+33.To verify that company name is shown properly at bottom of verify OTP screen.
+34.To verify that bottom navigation bar visible to checkout page.
+35.To verify that company name is as per original name.
+36.To verify that if menu already added to cart, it shows go to cart on product details.
+37.To verify that  maximum limit is 20 for menus added to cart.
+38.To verify that on checkout menus amount and subtotal amount properly aligned.
+39.To verify that name field accept character only.
+40.To verify that number field accept 10 digit mobile number.
+41.To verify that not proceed without tick on condition checkbox.
+42.To verify that signup button is enabled when all field are filled.
+43.To verify that if field empty display error message.
